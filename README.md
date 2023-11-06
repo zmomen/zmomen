@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there! I'm Zaid Al-Momen 👋
 
-<!--
-**zmomen/zmomen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced, empathetic, collaborative software engineer with over 6 years of knowledge in back-end development, APIs, databases, and building customer-facing products. 
 
-Here are some ideas to get you started:
+About me: 
+- 💡 I am interested in working with companies whose true mission focuses on tangible human impact. I want to see that my work is serving others meaningfully.
+- 👥 People are everything. I believe in forging relationships with coworkers, stakeholders, and customers. 
+- 💬 Ask me about my experience building teams, working on projects from scratch, and mentoring others!
+- 🤖 I tinker with a few things. See my projects and different skills, including Go/Python/Java/JavaScript.
+- 🌱 I’m currently learning Scala 3 and data engineering! 
+- 📫 How to reach me:
+  - 📧 Email: zalmomen01@gmail.com
+  - 🔗 LinkedIn: https://www.linkedin.com/in/zalmomen01/
+- 😄 Pronouns: he/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
